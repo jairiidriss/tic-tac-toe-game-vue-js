@@ -1,4 +1,4 @@
-<h1>TicTacToeGameVUEJS</h1>
+<h1>Tic Tac Toe Game using VUEJS</h1>
 <p>
   A simple Tic Tac Toe game using vue js | VUE JS VERSION 2
   <br>
